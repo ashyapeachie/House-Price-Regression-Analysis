@@ -17,4 +17,4 @@ house-price-predictor/
 │   └── predict.py
 │
 ├── requirements.txt
-└── README.md
+└── README.md 
