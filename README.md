@@ -26,3 +26,6 @@ This project builds a predictive model using supervised machine learning to esti
 ## 🛠️ Technologies to Use
 
 - Python
+- Visual Studio Code
+- Jupyter Notebook
+- pandas
